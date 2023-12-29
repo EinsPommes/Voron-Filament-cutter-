@@ -14,7 +14,7 @@ Voron Cutter ist ein Open-Source-Projekt, das entwickelt wurde, um Filament zu c
 
 ## Über Voron Cutter
 
-Diese cfg datei cuttet das filament beim filament wehcsel benötigt wird dazu aber ein ERCF
+Diese cfg datei cuttet das filament beim filament wehcsel benötigt wird dazu aber ein ERCF es wird mindestens die version v2.1.0.20 vom ERCF benötigt das dieses macro richtig funktioniert 
 
 ## Installation
 
